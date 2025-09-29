@@ -93,4 +93,4 @@ void affichage(const wchar_t *texte);
 
 ## 🔗 Dépôt GitHub
 Ce projet est hébergé sur GitHub :  
-https://github.com/im31200/MiniprojetC
+https://github.com/ImamMagadiyev/MiniprojetC
